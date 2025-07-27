@@ -7,6 +7,9 @@
   <a href="https://github.com/flirsys/foxchain/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/flirsys/foxchain" alt="License Badge"/>
   </a>
+  <a href="https://github.com/flirsys/foxchain/issues">
+    <img src="https://img.shields.io/github/issues/OkulusDev/Oxygen" alt="Issues Badge"/>
+  </a>
 </div>
 <br>
 
