@@ -2,10 +2,10 @@
 <p align="center"><i>блокчейн для лис.</i></p>
 <div align="center">
   <a href="https://github.com/flirsys/foxchain/stargazers">
-    <img src="https://img.shields.io/github/stars/https://github.com/flirsys/foxchain" alt="Stars Badge"/>
+    <img src="https://img.shields.io/github/stars/flirsys/foxchain" alt="Stars Badge"/>
   </a>
-  <a href="https://github.com/flirsys/foxchain/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/flirsys/foxchain?color=2b9348" alt="License Badge"/>
+  <a href="https://github.com/flirsys/foxchain/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/flirsys/foxchain" alt="License Badge"/>
   </a>
 </div>
 <br>
