@@ -18,12 +18,17 @@
 интерфейс кошелька: `https://127.0.0.1:8080/wallet.html`
 
 ! нода запускается на порту 8080<br/>
-(можно изменить в файле src/main/resources/application.properties в параметре blockchain.node.port и )
+(можно изменить в файле src/main/resources/application.properties в параметре blockchain.node.port)
 
 ! работает на https<br/>
 (можно изменить удалением всех server.ssl. строк из src/main/resources/application.properties)
 
 присутствует самоподписанный сертификат (src/main/resources/generate.P12)
+
+## Дорожная карта?
+- [x] базовая версия
+- [ ] P2P для нод
+- [ ] ..
 
 ## License
 This project is licensed under the GNU Affero General Public License v3.0. See the [LICENSE](LICENSE) file for details.
