@@ -1,4 +1,4 @@
-<h1 align="center">FOX blockchain (TEST)</h1>
+<h1 align="center">FOX blockchain</h1>
 <p align="center"><i>блокчейн для лис.</i></p>
 <div align="center">
   <a href="https://github.com/flirsys/foxchain/stargazers">
